@@ -1,0 +1,9 @@
+
+B. Stocker,Dracula,1871 year,456 pages,200
+J. R. R. Tolkien,Hobbit,1937 year,310 pages,201
+evus,SLC,1991 year,104 pages,555
+H. P. Lovecraft,The Call of Cthulhu,1928 year,89 pages,150
+I. Bahriany,The Hunters and the Hunted,1946 year,301 pages,170
+S. King,The Shining,1977 year,447 pages,163
+A. Sapkowski,The Witcher,1993 year,213 pages,145..pages,145.63
+A. Sapkowski,The Witcher,1993 year,213 pages,145.
